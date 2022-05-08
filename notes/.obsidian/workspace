@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "665a65fb0ad3f997",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc0bcc5940b06630",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Haskell/Haskell Monads.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a413bf909f94f43c",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd40b0ad516ac62e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e0b2bdef74621d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b68b381fd4ac881",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 187.00350189208984,
+    "collapsed": true
+  },
+  "right": {
+    "id": "57cf50f19728c8f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a32782ddc82d4d90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6e46c518cc068d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Haskell/Haskell Monads.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fc0bcc5940b06630",
+  "lastOpenFiles": [
+    "Haskell/Haskell Monads.md",
+    "Haskell/Haskell Constructor Classes.md",
+    "Syllabus.md",
+    "Haskell/Haskell Polymorphism.md",
+    "Haskell/Haskell DataTypes.md",
+    "Haskell/Haskell Introduction.md",
+    "Sneak Peeks/C++ Templates.md",
+    "Concepts/Polymorphism.md",
+    "Sneak Peeks/Microsoft .NET.md",
+    "Concepts/Frameworks.md"
+  ]
+}

@@ -1,0 +1,3 @@
+cd assignement_2/exs_3-4_JobScheduler/src/anagrams
+javac -cp ../ Main.java
+java -cp ../ Main.java

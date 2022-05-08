@@ -1,0 +1,3 @@
+cd assignement_1/ex_1/src
+javac TTTBoard.java
+java TTTBoard
