@@ -5,5 +5,6 @@
 5. [[Java Beans]]
 6. [[Java Iterators]]
 7. [[Java Generics]]
-8. [[Java Streams]]
+8. [[Java Lambdas]]
+9. [[Java Streams]]
 
